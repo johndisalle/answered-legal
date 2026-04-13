@@ -45,11 +45,18 @@ Email [support@ellasid.com](mailto:support@ellasid.com) from any address, say yo
 
 ### "I need legal advice"
 
-Answered is not a law firm and cannot give legal advice specific to your case. If you need legal advice, options in Wisconsin include:
+Answered is not a law firm and cannot give legal advice specific to your case. If you need legal advice, resources by state include:
 
+**Wisconsin:**
 - **State Bar of Wisconsin Lawyer Referral Service**: [wisbar.org](https://www.wisbar.org) — connects you with an attorney for a paid consultation
 - **Legal Action of Wisconsin**: [legalaction.org](https://www.legalaction.org) — free civil legal help for people who qualify by income
 - **Wisconsin Judicare**: [judicare.org](https://www.judicare.org) — serves northern Wisconsin
+
+**Illinois:**
+- **Illinois State Bar Association Lawyer Referral Service**: [isba.org](https://www.isba.org/public/referral) — connects you with an attorney for a paid consultation
+- **Illinois Legal Aid Online**: [illinoislegalaid.org](https://www.illinoislegalaid.org) — free legal information and self-help resources
+- **Legal Assistance Foundation (Chicago)**: [lafchicago.org](https://www.lafchicago.org) — free civil legal help in Cook County for people who qualify by income
+- **Prairie State Legal Services**: [pslegal.org](https://www.pslegal.org) — free civil legal help in northern and central Illinois
 - **Your local county bar association**
 
 ## Response-time expectations

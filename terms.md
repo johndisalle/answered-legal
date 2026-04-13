@@ -13,20 +13,20 @@ If you do not agree to these Terms, do not use the app.
 
 ## 1. What Answered is — and is not
 
-Answered is an educational and document-preparation tool for Wisconsin residents who have been sued in state circuit court by a debt collector. The app helps you:
+Answered is an educational and document-preparation tool for Wisconsin and Illinois residents who have been sued in state circuit court by a debt collector. The app helps you:
 
 - Organize and review papers you were served
-- Identify your response deadline under Wisconsin civil procedure
+- Identify your response deadline under the civil procedure of your state (Wisconsin or Illinois)
 - Flag potential defenses based on the papers you upload
 - Prepare a draft Answer document and follow step-by-step playbooks
 
 **Answered is not a law firm.** We do not provide legal advice, and no attorney-client relationship is created by your use of the app. The information the app provides is educational and general in nature. It is not a substitute for advice from a licensed attorney about your specific case.
 
-If you are unsure about any aspect of your case, consult a licensed Wisconsin attorney before taking action.
+If you are unsure about any aspect of your case, consult a licensed attorney in the state where your case was filed before taking action.
 
 ## 2. Eligibility
 
-You must be at least 18 years old and a resident of Wisconsin to use Answered. You may only use the app for your own legal matter. You may not use the app on behalf of anyone else, and you may not use it to provide legal services to any third party.
+You must be at least 18 years old and a resident of Wisconsin or Illinois to use Answered for a case filed in that state. You may only use the app for your own legal matter. You may not use the app on behalf of anyone else, and you may not use it to provide legal services to any third party.
 
 ## 3. Your account
 
