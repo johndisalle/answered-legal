@@ -1,0 +1,10 @@
+title: Answered — Legal & Support
+description: Legal and support pages for the Answered mobile application.
+theme: jekyll-theme-minimal
+
+# Clean URLs without .html extensions
+permalink: /:name
+
+# Exclude from build
+exclude:
+  - README.md
