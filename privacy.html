@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy — Answered</title>
+<style>
+  body { font-family: Georgia, serif; max-width: 680px; margin: 0 auto; padding: 24px 16px 64px; color: #1a1a1a; line-height: 1.6; }
+  h1 { font-size: 28px; margin-bottom: 4px; }
+  h2 { font-size: 20px; margin-top: 32px; }
+  .date { color: #666; font-size: 14px; margin-bottom: 32px; }
+  ul { padding-left: 24px; }
+  li { margin-bottom: 8px; }
+  a { color: #1a56db; }
+  .contact { background: #f5f5f5; padding: 16px; border-radius: 8px; margin-top: 32px; }
+</style>
+</head>
+<body>
+<h1>Privacy Policy</h1>
+<p class="date">Effective: April 16, 2026</p>
+
+<p>Answered ("we," "us," "the app") is a self-help tool for pro se debt defense. This policy explains what data we collect, how we use it, and your rights.</p>
+
+<h2>What We Collect</h2>
+<p>When you use Answered, we collect and process:</p>
+<ul>
+  <li><strong>Photos of court documents</strong> — images you scan of summons, complaints, and related filings. These are uploaded to our servers for AI-powered text extraction.</li>
+  <li><strong>Extracted case data</strong> — structured information parsed from your documents: party names, court, county, case number, amounts, dates, and causes of action.</li>
+  <li><strong>Profile information</strong> — your legal name, mailing address, and phone number, which you provide to generate court filings.</li>
+  <li><strong>Generated documents</strong> — answers, motions, and other legal documents created by the app for your case.</li>
+  <li><strong>Usage analytics</strong> — anonymous, aggregated data about which features are used and how (via PostHog). This data does not include any case details, document content, or personal information.</li>
+  <li><strong>Device identifiers</strong> — anonymous IDs for authentication and purchase restoration (via Supabase anonymous auth and RevenueCat).</li>
+</ul>
+
+<h2>How We Use Your Data</h2>
+<ul>
+  <li>To extract text from your court documents and generate case analysis.</li>
+  <li>To generate personalized legal documents (answers, motions, discovery requests).</li>
+  <li>To store your case data so you can return to it across app sessions.</li>
+  <li>To process payments and restore purchases.</li>
+  <li>To improve the app through anonymous usage analytics.</li>
+</ul>
+
+<h2>AI Processing</h2>
+<p>Your document images and extracted case data are sent to Anthropic's Claude API for text extraction and case analysis. Anthropic does not use customer data submitted via API to train its models. See <a href="https://www.anthropic.com/privacy">Anthropic's privacy policy</a> for details.</p>
+
+<h2>What We Do NOT Do</h2>
+<ul>
+  <li>We do not sell your data to anyone.</li>
+  <li>We do not share your data with third parties for marketing.</li>
+  <li>We do not use your documents or case data to train AI models.</li>
+  <li>We do not display ads or let advertisers access your data.</li>
+</ul>
+
+<h2>Data Storage and Security</h2>
+<p>Your data is stored on Supabase (hosted on AWS) with encryption at rest. Document images are stored in a private storage bucket accessible only through your authenticated session. Row-Level Security policies ensure each user can only access their own data.</p>
+
+<h2>Data Retention</h2>
+<p>Your case data and documents are retained as long as your account exists. If you uninstall the app without upgrading to a permanent account, your anonymous session and all associated data may become inaccessible.</p>
+
+<h2>Your Rights</h2>
+<p>You may request deletion of all your data by contacting us at the email below. Upon deletion, all case data, uploaded documents, generated filings, and profile information will be permanently removed within 30 days.</p>
+
+<h2>Children</h2>
+<p>Answered is not intended for use by anyone under 18. We do not knowingly collect data from minors.</p>
+
+<h2>Changes to This Policy</h2>
+<p>We may update this policy. Material changes will be communicated in-app. Continued use after changes constitutes acceptance.</p>
+
+<div class="contact">
+  <strong>Contact</strong><br>
+  John DiSalle<br>
+  <a href="mailto:privacy@getanswered.app">privacy@getanswered.app</a>
+</div>
+</body>
+</html>
