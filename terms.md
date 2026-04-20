@@ -5,7 +5,7 @@ title: Terms of Service
 
 # Terms of Service
 
-**Last updated: April 17, 2026**
+**Last updated: April 20, 2026**
 
 These Terms of Service ("Terms") govern your use of the Answered mobile application ("Answered," "the app," "we," "us," or "our"). Answered is operated by John DiSalle, a Wisconsin resident doing business as Answered. By downloading, installing, or using the app, you agree to these Terms.
 

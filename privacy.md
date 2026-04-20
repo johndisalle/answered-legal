@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**Last updated: April 12, 2026**
+**Last updated: April 20, 2026**
 
 This Privacy Policy describes how Answered ("we," "us," or "our") collects, uses, and protects information when you use the Answered mobile application. Answered is operated by John DiSalle, a Wisconsin resident doing business as Answered.
 
