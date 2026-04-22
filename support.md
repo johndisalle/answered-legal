@@ -43,6 +43,40 @@ If Apple denies the refund and you believe the app didn't work as described, ema
 
 Email [support@ellasid.com](mailto:support@ellasid.com) from any address, say you want your data deleted, and we'll remove everything associated with your account within 30 days. See our [Privacy Policy](/answered-legal/privacy) for details.
 
+### "I bought the Mail Filing Service -- what happens now?"
+
+We prepare and deposit your packet with USPS, by Certified Mail with Return Receipt Requested, within **2-5 business days** of your payment. When we mail it, we email you the USPS tracking numbers for both the court copy and the plaintiff copy -- usually the same day, at the latest the next business day.
+
+Expected timeline end-to-end: payment -> mail -> delivery is typically 4 to 8 business days. USPS controls the delivery leg and does not guarantee delivery dates.
+
+### "I need to change my address, signature, or Answer after paying"
+
+Email [support@ellasid.com](mailto:support@ellasid.com) as soon as possible and tell us your order ID (it starts with **A-** and is shown on your order confirmation). If we have not yet printed your packet, we can edit or cancel it. Once it's printed, we can't change it, but we can cancel and issue a refund in limited cases -- see the refund policy below.
+
+### "Where are my tracking numbers?"
+
+We email them within 1 business day of mailing your packet. If it's been more than 5 business days since you paid and you haven't received tracking numbers, email us.
+
+### "Can I cancel my Mail Filing Service order?"
+
+Yes, if we haven't printed it yet. Email us as soon as possible with your order ID. If we've already printed the packet, we cannot cancel the mailing, but you may qualify for a refund -- see below.
+
+### "I want a refund on the Mail Filing Service"
+
+We will refund the full $39.99 fee if:
+
+- You cancel before we print the packet, or
+- USPS fails to deliver either piece within 14 calendar days of mailing and we cannot produce proof of delivery, or
+- We fail to mail your packet within the 2-5 business day handling window stated when you purchased.
+
+To request a refund, email [support@ellasid.com](mailto:support@ellasid.com) with your order ID. Refunds go back through Apple's refund process.
+
+We do not refund the Mail Filing Service on the basis of the legal merits of your Answer, the outcome of your case, or your second thoughts about what your Answer said.
+
+### "USPS says my packet wasn't delivered"
+
+Email us with your order ID. We will look up the tracking details, investigate, and let you know whether we can re-mail, refund, or escalate with USPS. We cannot guarantee what USPS does, but we will work with you promptly.
+
 ### "I need legal advice"
 
 Answered is not a law firm and cannot give legal advice specific to your case. If you need legal advice, resources by state include:
@@ -116,6 +150,8 @@ Answered is not a law firm and cannot give legal advice specific to your case. I
 | --- | --- |
 | Bug reports | Within 1 business day |
 | Purchase / access issues | Within 1 business day |
+| Mail Filing Service questions | Within 1 business day |
+| Mail Filing Service cancellations | Same day if we haven't printed yet |
 | Data deletion requests | Acknowledged within 1 business day, completed within 30 days |
 | Feature requests | Read every one; may not reply individually |
 | Press or partnership inquiries | Within 2 business days |
