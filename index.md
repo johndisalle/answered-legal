@@ -5,7 +5,7 @@ title: Answered — Legal & Support
 
 # Answered
 
-Wisconsin and Illinois debt defense, in your pocket.
+Debt defense across 14 states, in your pocket.
 
 This site hosts the legal and support pages for the Answered mobile application.
 
