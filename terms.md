@@ -5,7 +5,7 @@ title: Terms of Service
 
 # Terms of Service
 
-**Last updated: April 22, 2026**
+**Last updated: April 27, 2026**
 
 These Terms of Service ("Terms") govern your use of the Answered mobile application ("Answered," "the app," "we," "us," or "our"). Answered is operated by John DiSalle, a Wisconsin resident doing business as Answered. By downloading, installing, or using the app, you agree to these Terms.
 
@@ -13,7 +13,7 @@ If you do not agree to these Terms, do not use the app.
 
 ## 1. What Answered is — and is not
 
-Answered is an educational and document-preparation tool for people who have been sued by a debt collector or debt buyer in state court. The app currently covers cases filed in Wisconsin, Illinois, New York, Florida, Ohio, Texas, Minnesota, and Pennsylvania. The app helps you:
+Answered is an educational and document-preparation tool for people who have been sued by a debt collector or debt buyer in state court. The app currently covers cases filed in Wisconsin, Illinois, New York, Florida, Ohio, Texas, Minnesota, Pennsylvania, Michigan, Georgia, Kentucky, Indiana, Virginia, and Missouri. The app helps you:
 
 - Organize and review papers you were served
 - Identify your response deadline under the civil procedure of your state
@@ -28,7 +28,7 @@ If you are unsure about any aspect of your case, consult a licensed attorney in 
 
 ## 2. Eligibility
 
-You must be at least 18 years old and a resident of a state the app currently covers (Wisconsin, Illinois, New York, Florida, Ohio, Texas, Minnesota, or Pennsylvania) to use Answered for a case filed in that state. You may only use the app for your own legal matter. You may not use the app on behalf of anyone else, and you may not use it to provide legal services to any third party.
+You must be at least 18 years old and a resident of a state the app currently covers (Wisconsin, Illinois, New York, Florida, Ohio, Texas, Minnesota, Pennsylvania, Michigan, Georgia, Kentucky, Indiana, Virginia, or Missouri) to use Answered for a case filed in that state. You may only use the app for your own legal matter. You may not use the app on behalf of anyone else, and you may not use it to provide legal services to any third party.
 
 ## 3. Your account
 
