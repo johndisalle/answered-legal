@@ -28,16 +28,17 @@ For many common questions, a quick check can save you a round-trip.
 
 ### "I bought Answered Pro but don't have access"
 
-- Make sure you're signed into the same Apple ID you used to purchase.
-- Tap **Restore Purchase** on the paywall screen.
+- If you bought in the iOS app, make sure you're signed into the same Apple ID you used to purchase.
+- Tap **Restore Purchase** on the paywall screen if you bought in the iOS app.
+- If you bought on the web, use the same browser session or the email/magic link sent after checkout.
 - Force-quit the app and reopen it — entitlements sync on launch.
-- If that doesn't work, email us with your receipt number (Apple emails it to you after purchase) and we'll fix it.
+- If that doesn't work, email us with your receipt number or the email address used at checkout and we'll fix it.
 
 ### "I want a refund"
 
-Refunds for in-app purchases are processed by Apple, not by us. Request one at **[reportaproblem.apple.com](https://reportaproblem.apple.com)**. Apple typically decides within 48 hours.
+Refunds for App Store purchases are processed by Apple, not by us. Request one at **[reportaproblem.apple.com](https://reportaproblem.apple.com)**. Apple typically decides within 48 hours.
 
-If Apple denies the refund and you believe the app didn't work as described, email us at [support@ellasid.com](mailto:support@ellasid.com) and we'll help resolve it.
+For web purchases, or if Apple denies a refund and you believe the app didn't work as described, email us at [support@ellasid.com](mailto:support@ellasid.com) and we'll help resolve it.
 
 ### "I want to delete my data"
 
@@ -63,13 +64,13 @@ Yes, if we haven't printed it yet. Email us as soon as possible with your order 
 
 ### "I want a refund on the Mail Filing Service"
 
-We will refund the full $39.99 fee if:
+We will refund the full $50 fee if:
 
 - You cancel before we print the packet, or
 - USPS fails to deliver either piece within 14 calendar days of mailing and we cannot produce proof of delivery, or
 - We fail to mail your packet within the 2-5 business day handling window stated when you purchased.
 
-To request a refund, email [support@ellasid.com](mailto:support@ellasid.com) with your order ID. Refunds go back through Apple's refund process.
+To request a refund, email [support@ellasid.com](mailto:support@ellasid.com) with your order ID. Refunds go back through the payment processor used for your purchase where possible.
 
 We do not refund the Mail Filing Service on the basis of the legal merits of your Answer, the outcome of your case, or your second thoughts about what your Answer said.
 
@@ -79,7 +80,7 @@ Email us with your order ID. We will look up the tracking details, investigate, 
 
 ### "I need legal advice"
 
-Answered is not a law firm and cannot give legal advice specific to your case. If you need legal advice, resources by state include:
+Answered is not a law firm and cannot give legal advice specific to your case. If you need legal advice, starter resources in several covered states include:
 
 #### Wisconsin
 
@@ -164,9 +165,9 @@ To help us help you faster:
 - What happened instead
 - The device you're using (iPhone model and iOS version)
 - A screenshot if the issue is visual
-- Your RevenueCat app user ID if you have a purchase issue (find it in the app under Settings, if available)
+- Your RevenueCat app user ID, Apple receipt number, or checkout email if you have a purchase issue
 
 ---
 
-John DiSalle, doing business as Answered
+Ellasid LLC
 Eau Claire, Wisconsin

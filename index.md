@@ -5,9 +5,9 @@ title: Answered — Legal & Support
 
 # Answered
 
-Debt defense across 14 states, in your pocket.
+Debt defense across 18 states, in your pocket.
 
-This site hosts the legal and support pages for the Answered mobile application.
+This site hosts the legal and support pages for Answered.
 
 - [Terms of Service](/answered-legal/terms)
 - [Privacy Policy](/answered-legal/privacy)
@@ -17,5 +17,5 @@ For all questions, email [support@ellasid.com](mailto:support@ellasid.com).
 
 ---
 
-John DiSalle, doing business as Answered
+Ellasid LLC
 Eau Claire, Wisconsin

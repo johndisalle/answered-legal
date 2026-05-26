@@ -1,6 +1,6 @@
 # answered-legal
 
-Legal and support pages for the [Answered](https://apps.apple.com/) iOS app, hosted via GitHub Pages.
+Legal and support pages for Answered, hosted via GitHub Pages.
 
 Live at: https://johndisalle.github.io/answered-legal/
 

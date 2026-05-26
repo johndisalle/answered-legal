@@ -5,9 +5,9 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**Last updated: April 22, 2026**
+**Last updated: May 26, 2026**
 
-This Privacy Policy describes how Answered ("we," "us," or "our") collects, uses, and protects information when you use the Answered mobile application. Answered is operated by John DiSalle, a Wisconsin resident doing business as Answered.
+This Privacy Policy describes how Answered ("we," "us," or "our") collects, uses, and protects information when you use the Answered mobile application and web application. Answered is operated by Ellasid LLC, a Wisconsin limited liability company.
 
 We take privacy seriously because the documents you upload — summonses, complaints, contracts, financial records — are some of the most sensitive information a person handles. This policy is written to be readable in plain English, not lawyer jargon.
 
@@ -17,9 +17,9 @@ We take privacy seriously because the documents you upload — summonses, compla
 
 **Case data.** The structured information the app extracts from your documents — case number, court, parties, dates, amounts — is stored alongside the documents it was extracted from.
 
-**Anonymous account identifier.** When you open the app, we create an anonymous account for you. This is a random identifier. We do not ask for your name, email, phone, or any other identifying information to use the app.
+**Account identifier.** When you open the app or begin using the web application, we create an anonymous account for you. This is a random identifier. We do not ask for your name, phone number, or other identifying information to use the free features. If you provide an email address during checkout, account recovery, or support, we may attach that email address to your account so you can regain access.
 
-**Purchase records.** If you purchase Answered Pro, Apple handles the transaction. We receive a confirmation that the purchase occurred, but we do not see or store your payment card details. Apple's own privacy policy governs how they handle your payment information.
+**Purchase records.** If you purchase Answered Pro or the Mail Filing Service, Apple, RevenueCat, or Stripe may handle the transaction depending on where you purchase. We receive a confirmation that the purchase occurred, but we do not see or store your full payment card details. The payment processor's own privacy policy governs how it handles your payment information.
 
 **Basic technical data.** Like almost all apps, we log technical information that helps us fix crashes and security issues — device type, operating system version, app version, and generic error messages. We do not log the contents of your documents in these technical logs.
 
@@ -31,17 +31,17 @@ We take privacy seriously because the documents you upload — summonses, compla
 - The **text of your generated Answer document** at the moment of purchase, so we have a stable record of what was printed and mailed.
 - Your **four consent acknowledgments** (not a law firm, responsible for content, delivery not guaranteed, deadline buffer) with the timestamps you tapped each.
 - USPS **tracking numbers** assigned when the packet is mailed.
-- Payment confirmation from RevenueCat tied to your anonymous account.
+- Payment confirmation from RevenueCat, Apple, or Stripe tied to your account.
 
 ## What we do not collect
 
-- Your email or phone number (unless you email us for support)
+- Your phone number
 - Your Social Security number, date of birth, or government IDs
 - Your location
 - Your contacts, photos outside of what you upload, calendar, or other device data
 - Your browsing or usage data outside the app
 
-**Note on names and mailing addresses:** If you use the free features of the app, we do not collect your name or physical address. If you purchase the Mail Filing Service, we collect your name (as it appears on the Answer) and the mailing addresses needed to fulfill the service. See the Mail Filing Service section above.
+**Note on names, email addresses, and mailing addresses:** If you use the free features of Answered, we do not collect your name or physical address. If you purchase on the web, provide an email for account recovery, or email us for support, we may collect your email address. If you purchase the Mail Filing Service, we collect your name (as it appears on the Answer) and the mailing addresses needed to fulfill the service. See the Mail Filing Service section above.
 
 ## How we store and protect your data
 
@@ -77,7 +77,8 @@ We share data with the following categories of third parties:
 - **Supabase** -- database and file storage
 - **Anthropic** -- AI processing as described above
 - **Apple** -- handles in-app purchases and crash reporting where you opt in
-- **RevenueCat** -- manages subscription status and entitlements tied to your anonymous account
+- **RevenueCat** -- manages subscription status and entitlements tied to your account
+- **Stripe** -- handles web checkout and payment processing
 
 **Courts and plaintiff's attorneys -- only if you purchase the Mail Filing Service.** When you purchase the Mail Filing Service, you instruct us to physically mail your Answer, your hand-drawn signature, your Certificate of Service, and your name to (a) the court clerk and (b) the plaintiff's attorney of record in your case. This disclosure is the entire purpose of the service. We do not make this disclosure for any user who has not purchased the service, and we mail only to the addresses you confirm in the wizard.
 
@@ -113,5 +114,5 @@ For privacy questions, email [support@ellasid.com](mailto:support@ellasid.com).
 
 ---
 
-John DiSalle, doing business as Answered
+Ellasid LLC
 Eau Claire, Wisconsin
